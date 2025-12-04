@@ -1,0 +1,3 @@
+Username,Account ID,Project Key,Access Permission,Access Status,Timestamp,Screenshot
+user2,user2,PA,Read,NO_ACCESS,2025-12-05 02:42:26,/home/user/Documents/FINAL/NODEJS/sp_access_revoke_testing/output_files/png/no_access/user2_PA_2025-12-05_02-42-26.png
+user1,user1,PB,Read,NO_ACCESS,2025-12-05 02:42:27,/home/user/Documents/FINAL/NODEJS/sp_access_revoke_testing/output_files/png/no_access/user1_PB_2025-12-05_02-42-27.png
